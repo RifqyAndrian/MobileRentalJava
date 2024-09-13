@@ -1,0 +1,3 @@
+ID|Customer Name|Phone Model|Rent Duration|Total Price
+1|Test|Samsung A51|1|40000
+2|Test|Iphone 8|4|240000
